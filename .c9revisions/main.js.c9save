@@ -1,0 +1,2 @@
+{"ts":1368883110531,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1368883101986,"patch":[[{"diffs":[[1,"define(['dojo/date'], function(date){\r\n    console.log('Hi ' + date.getTimezoneName(new Date()) + ', welcome to NodeJS!');\r\n});"]],"start1":0,"start2":0,"length1":0,"length2":127}]],"length":127,"saved":false}
